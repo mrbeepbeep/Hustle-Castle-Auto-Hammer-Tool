@@ -3,6 +3,8 @@ Overview
 
 A simple and lightweight tool for collecting rewards in the Hustle Castle Game Hammer event. No install necessary, just one file required.  
 
+![Hustle Castle Hammer Tool](https://i.imgur.com/T7F3MAH.png)
+
 Instructions:
 
 1) Navigate to the Hammer Event 'Game' page.
