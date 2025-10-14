@@ -20,3 +20,6 @@ Notes:
 * Please report any issues on the youtube demonstration video, or feature requests.
 
 * In future hammer events the file will require slight adjustments to suit the field animations (current event at April 2025 is barrel animations). Please ensure you download the updated file
+
+Update 14/Oct/2025:
+Now clears extra rewards dialog for users with pass
