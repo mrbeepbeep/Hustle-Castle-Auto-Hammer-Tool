@@ -3,7 +3,7 @@ Overview
 
 A simple and lightweight tool for collecting rewards in the Hustle Castle Game Hammer event. No install necessary, just one file required.  
 
-PLEASE NOTE: This tool is now integrated with the free application HC assistant ![Download from here](https://hcassistant.com/)
+PLEASE NOTE: This tool is now integrated with the free application HC assistant [Download from here](https://hcassistant.com/)
 
 ![Hustle Castle Hammer Tool](https://hcassistant.com/wp-content/uploads/2025/10/hustle-castle-assistant-auto-hammer-gui.png)
 
